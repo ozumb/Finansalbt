@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "560731980557",
+    "firebase_url": "https://silerehberi-325ed-default-rtdb.firebaseio.com",
+    "project_id": "silerehberi-325ed",
+    "storage_bucket": "silerehberi-325ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560731980557:android:b760cf6d6da8c662862644",
+        "android_client_info": {
+          "package_name": "com.example.silerehberim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560731980557-osaon3c5adpgfcrrcm87a4ocp05p0uss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD62rY_Y89pXmT8YDIDQjmEcXUyMP6ecCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560731980557-osaon3c5adpgfcrrcm87a4ocp05p0uss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
